@@ -1,4 +1,5 @@
 baseURL: "https://ldv-munich.github.io/ldvblog.github.io/"
-theme: book
+theme:
+  - "https://github.com/alex-shpak/hugo-book"
 languageCode: it-it
 title: Leonardo Da Vinci Blog
