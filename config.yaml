@@ -1,5 +1,8 @@
 baseURL: "https://ldv-munich.github.io/ldvblog.github.io/"
-theme:
-  - "https://github.com/alex-shpak/hugo-book"
+theme: book
 languageCode: it-it
 title: Leonardo Da Vinci Blog
+
+module:
+  imports:
+  - path: "https://github.com/alex-shpak/hugo-book"
