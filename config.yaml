@@ -5,4 +5,4 @@ title: Leonardo Da Vinci Blog
 
 module:
   imports:
-  - path: "https://github.com/alex-shpak/hugo-book"
+  - path: "github.com/alex-shpak/hugo-book"
