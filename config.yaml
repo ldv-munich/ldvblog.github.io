@@ -1,3 +1,4 @@
 baseURL: "https://ldv-munich.github.io/ldvblog.github.io/"
+contentDir: "content"
 languageCode: it-it
 title: Leonardo Da Vinci Blog
