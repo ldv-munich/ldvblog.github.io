@@ -2,6 +2,7 @@
 title: Introduzione
 type: Ldv Blog
 bookToc: true
+draft: false
 # bookFlatSection: false
 # bookHidden: false
 # bookCollapseSection: false
