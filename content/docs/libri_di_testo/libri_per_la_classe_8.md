@@ -15,7 +15,6 @@ bookToc: true
 * [Deutschbuch Gymnasium - eBook](https://www.cornelsen.de/produkte/deutschbuch-gymnasium-schulbuch-als-e-book-8-jahrgangsstufe-9783060617227)
 * [Deutschbuch Gymnasium - Printausgabe](https://www.cornelsen.de/produkte/deutschbuch-gymnasium-schulbuch-8-jahrgangsstufe-9783060627790)
 * [Deutschbuch Gymnasium - Arbeitsheft](https://www.cornelsen.de/produkte/deutschbuch-gymnasium-arbeitsheft-mit-interaktiven-uebungen-online-8-jahrgangsstufe-9783060627912)
-
 * [Übungsgrammatik für die Mittelstufe - PDF](https://shop.hueber.de/de/sprache-unterrichten/deutsch-als-fremdsprache-daf-daz/e-uebungsgr-mittelst-daf-akt-pak-pdf-978-3-19-051657-5.html)
 * [Übungsgrammatik für die Mittelstufe - Printausgabe](https://shop.hueber.de/de/sprache-lernen/deutsch-als-fremdsprache-daf-daz/prufungsvorbereitung/uebungsgrammatik-mittelstufe-daf-aktuell-978-3-19-111657-6.html)
 
@@ -30,6 +29,13 @@ bookToc: true
 
 ## Nur für SuS im MZweig
 ### Deutsch
-[Doppel-Klick - eBook](https://www.cornelsen.de/produkte/doppel-klick-schulbuch-als-e-book-8-jahrgangsstufe-9783060620814)
-[Doppel-Klick - Printausgabe](https://www.cornelsen.de/produkte/doppel-klick-schulbuch-8-jahrgangsstufe-9783062002144)
-[Doppel-Klick - Arbeitsheft](https://www.cornelsen.de/produkte/doppel-klick-arbeitsheft-mit-loesungen-8-jahrgangsstufe-9783062002151)
+* [Doppel-Klick - eBook](https://www.cornelsen.de/produkte/doppel-klick-schulbuch-als-e-book-8-jahrgangsstufe-9783060620814)
+* [Doppel-Klick - Printausgabe](https://www.cornelsen.de/produkte/doppel-klick-schulbuch-8-jahrgangsstufe-9783062002144)
+* [Doppel-Klick - Arbeitsheft](https://www.cornelsen.de/produkte/doppel-klick-arbeitsheft-mit-loesungen-8-jahrgangsstufe-9783062002151)
+
+### Mathematik
+* [Formel PLUS M8 - eBook](https://www.ccbuchner.de/produkt/click-und-study-m8-7487)
+* [Formel PLUS M8 - Printausgabe](https://www.ccbuchner.de/produkt/formel-plus-m8-7354)
+* [Formelsammlungen Sekundarstufe I](https://www.cornelsen.de/produkte/formelsammlungen-sekundarstufe-i-mathematik-formelsammlung-9783464521441)
+
+### Englisch
