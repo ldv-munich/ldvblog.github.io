@@ -16,7 +16,7 @@ bookToc: true
 * [Deutschbuch Gymnasium - Arbeitsheft](https://www.cornelsen.de/produkte/deutschbuch-gymnasium-arbeitsheft-mit-interaktiven-uebungen-online-8-jahrgangsstufe-9783060627912)
 
 * [Übungsgrammatik für die Mittelstufe - Printausgabe](https://shop.hueber.de/de/sprache-lernen/deutsch-als-fremdsprache-daf-daz/prufungsvorbereitung/uebungsgrammatik-mittelstufe-daf-aktuell-978-3-19-111657-6.html)
-* [Übungsgrammatik für die Mittelstufe - PDF](Übungsgrammatik für die Mittelstufe)
+* [Übungsgrammatik für die Mittelstufe - PDF](https://shop.hueber.de/de/sprache-unterrichten/deutsch-als-fremdsprache-daf-daz/e-uebungsgr-mittelst-daf-akt-pak-pdf-978-3-19-051657-5.html)
 
 ## Mathematik
 * [Lambacher Schweizer Mathematik 8 - eBook](https://www.klett.de/produkt/isbn/ECI50039EBA12)
@@ -25,3 +25,4 @@ bookToc: true
 ## Englisch
 * [Green Line 4 - eBook](https://www.klett.de/produkt/isbn/ECD75005EBA12)
 * [Green Line 4 - Printausgabe](https://www.klett.de/produkt/isbn/978-3-12-803040-1)
+* [Green Line 4 - Workbook](https://www.klett.de/produkt/isbn/978-3-12-803045-6)
